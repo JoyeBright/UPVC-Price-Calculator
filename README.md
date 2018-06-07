@@ -1,2 +1,2 @@
 # UPVC-Price-Calculator
-The simple UPVC doors and windows price calculator
+The simple UPVC doors and windows price calculator based on wxPython GUI
